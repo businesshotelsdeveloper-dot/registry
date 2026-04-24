@@ -1,0 +1,9 @@
+{
+  "mcpName": "BusinessHotels.com Universal Agentic API",
+  "description": "An MCP-native server providing real-time hotel price verification and automated booking for the Unified Travel Super App ecosystem.",
+  "version": "1.0.0",
+  "githubRepo": "https://github.com/businesshotelsdeveloper-dot/businesshotels.com",
+  "homepage": "https://www.businesshotels.com",
+  "runtime": "node",
+  "tags": ["travel", "hotels", "hospitality", "booking", "agentic"]
+}
